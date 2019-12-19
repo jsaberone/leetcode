@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b1cf1d4-df09-4f14-9331-ff7e14c9b5de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/src/main/java/com/leetcode/stack/q20/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/src/main/java/com/leetcode/stack/q20/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-notes/leetcode-1-两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-notes/leetcode-1-两数之和.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +219,7 @@
       <workItem from="1535016006020" duration="6453000" />
       <workItem from="1535073772925" duration="19367000" />
       <workItem from="1576570188654" duration="72000" />
-      <workItem from="1576715996722" duration="4353000" />
+      <workItem from="1576715996722" duration="5594000" />
     </task>
     <servers />
   </component>
@@ -232,22 +227,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="277" key="GridCell.Tab.0.bottom" timestamp="1576726541786">
+    <state width="1867" height="277" key="GridCell.Tab.0.bottom" timestamp="1576739939640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576726541786" />
-    <state width="1867" height="277" key="GridCell.Tab.0.center" timestamp="1576726541786">
+    <state width="1867" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576739939640" />
+    <state width="1867" height="277" key="GridCell.Tab.0.center" timestamp="1576739939640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576726541786" />
-    <state width="1867" height="277" key="GridCell.Tab.0.left" timestamp="1576726541785">
+    <state width="1867" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576739939640" />
+    <state width="1867" height="277" key="GridCell.Tab.0.left" timestamp="1576739939639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576726541785" />
-    <state width="1867" height="277" key="GridCell.Tab.0.right" timestamp="1576726541786">
+    <state width="1867" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576739939639" />
+    <state width="1867" height="277" key="GridCell.Tab.0.right" timestamp="1576739939640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576726541786" />
+    <state width="1867" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576739939640" />
     <state x="161" y="192" width="1598" height="705" key="new project wizard" timestamp="1576716047103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
