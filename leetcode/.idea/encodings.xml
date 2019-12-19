@@ -3,7 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamicprograming" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamicprograming/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lcdbombenemy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcdbombenemy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linkedlist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linkedlist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stack/src/main/java" charset="UTF-8" />
   </component>
 </project>
