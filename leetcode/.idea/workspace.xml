@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b1cf1d4-df09-4f14-9331-ff7e14c9b5de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/src/main/java/com/leetcode/stack/q155/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-notes/leetcode-641-设计循环双端队列" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/src/main/java/com/jsaber/queuedemo/QueuedemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/src/main/java/com/jsaber/queuedemo/queue/MyCircularDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/src/test/java/com/jsaber/queuedemo/QueuedemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuedemo/src/test/java/com/jsaber/queuedemo/TestMyCircularDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +59,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1V6Og7gh5i8GgkO4usqyKNxYoFM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,16 +69,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/2.a.xiaomage-springboot/segmentfault-lessons-master/spring-boot/lesson-18/spring-boot-lesson-18" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.MinStack">
+  <component name="RunManager" selected="JUnit.TestMyCircularDeque.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -74,20 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.leetcode.stack.q155.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzj.mydemo.MyLinkedList" />
-      <module name="linkedlist" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zzj.mydemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,9 +148,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMyCircularDeque.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="queuedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jsaber.queuedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jsaber.queuedemo" />
+      <option name="MAIN_CLASS_NAME" value="com.jsaber.queuedemo.TestMyCircularDeque" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueuedemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="queuedemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsaber.queuedemo.QueuedemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,19 +206,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedListTest" />
-      <item itemvalue="Application.MyLinkedList" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.MinStack" />
+      <item itemvalue="JUnit.TestMyCircularDeque.test" />
       <item itemvalue="Spring Boot.StackApplication" />
+      <item itemvalue="Spring Boot.QueuedemoApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMyCircularDeque.test" />
         <item itemvalue="Application.MinStack" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.MyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -223,33 +253,38 @@
       <workItem from="1576748512556" duration="6945000" />
       <workItem from="1576801303176" duration="3484000" />
       <workItem from="1576892416623" duration="50000" />
+      <workItem from="1577433595461" duration="5779000" />
+      <workItem from="1577503035743" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1151" y="213" key="FileChooserDialogImpl" timestamp="1576892464539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1151" y="213" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576892464539" />
-    <state width="1867" height="277" key="GridCell.Tab.0.bottom" timestamp="1576836805472">
+    <state width="1867" height="395" key="GridCell.Tab.0.bottom" timestamp="1577442002461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576836805472" />
-    <state width="1867" height="277" key="GridCell.Tab.0.center" timestamp="1576836805471">
+    <state width="1867" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577442002461" />
+    <state width="1867" height="395" key="GridCell.Tab.0.center" timestamp="1577442002461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576836805471" />
-    <state width="1867" height="277" key="GridCell.Tab.0.left" timestamp="1576836805470">
+    <state width="1867" height="395" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577442002461" />
+    <state width="1867" height="395" key="GridCell.Tab.0.left" timestamp="1577442002461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576836805470" />
-    <state width="1867" height="277" key="GridCell.Tab.0.right" timestamp="1576836805471">
+    <state width="1867" height="395" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577442002461" />
+    <state width="1867" height="395" key="GridCell.Tab.0.right" timestamp="1577442002461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576836805471" />
+    <state width="1867" height="395" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577442002461" />
     <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1576836805467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,14 +301,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576836805467" />
-    <state x="577" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1576892417079">
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1577503036718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576892417078" />
-    <state x="161" y="192" width="1598" height="705" key="new project wizard" timestamp="1576716047103">
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577503036718" />
+    <state x="161" y="192" width="1598" height="705" key="new project wizard" timestamp="1577433662255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="192" width="1598" height="705" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576716047103" />
+    <state x="161" y="192" width="1598" height="705" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577433662255" />
   </component>
   <component name="masterDetails">
     <states>

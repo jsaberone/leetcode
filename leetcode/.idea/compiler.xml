@@ -7,9 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dynamicprograming" />
-        <module name="lcdbombenemy" />
+        <module name="queuedemo" />
         <module name="stack" />
         <module name="linkedlist" />
+        <module name="lcdbombenemy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,11 +18,13 @@
       <module name="lcdbombenemy" target="1.8" />
       <module name="leetcode" target="1.8" />
       <module name="linkedlist" target="1.7" />
+      <module name="queuedemo" target="1.8" />
       <module name="stack" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="queuedemo" options="-parameters" />
       <module name="stack" options="-parameters" />
     </option>
   </component>
