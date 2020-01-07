@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/binarysearch/binarysearch.iml" filepath="$PROJECT_DIR$/binarysearch/binarysearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicprograming/dynamicprograming.iml" filepath="$PROJECT_DIR$/dynamicprograming/dynamicprograming.iml" />
       <module fileurl="file://$PROJECT_DIR$/lcdbombenemy/lcdbombenemy.iml" filepath="$PROJECT_DIR$/lcdbombenemy/lcdbombenemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/queuedemo/queuedemo.iml" filepath="$PROJECT_DIR$/queuedemo/queuedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/square-demo/square-demo.iml" filepath="$PROJECT_DIR$/square-demo/square-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
     </modules>
   </component>

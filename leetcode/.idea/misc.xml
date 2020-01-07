@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/stack/pom.xml" />
         <option value="$PROJECT_DIR$/queuedemo/pom.xml" />
+        <option value="$PROJECT_DIR$/square-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/binarysearch/pom.xml" />
       </list>
     </option>
   </component>
